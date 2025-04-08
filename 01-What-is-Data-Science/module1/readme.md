@@ -1,67 +1,39 @@
+# 🧠 Module 1: What is Data Science?
 
-# Week 1 – Defining Data Science and What Data Scientists Do
-
-## 🎓 Topics Covered
-
-- What is Data Science?
-- What Do Data Scientists Do?
-- Data Science Skills & Big Data
-- Data Science Topics and Algorithms
-- Applications and Careers in Data Science
-- Data Literacy for Data Science (Optional)
+This module introduces the **core principles of data science**, explores **career paths**, and outlines **essential skills** for aspiring data scientists. You'll hear from experts in the field and engage in real-world scenarios that bring the profession to life.
 
 ---
 
-## 📚 Detailed Content
+## 📘 Lesson 1: Defining Data Science
 
-### 📌 Defining Data Science
-- Video: What is Data Science?
-- Fundamentals of Data Science
-- The Many Paths to Data Science
-- Data Science: The Sexiest Job in the 21st Century
-- Advice for New Data Scientists
+In this lesson, you’ll begin your journey with an introduction to Data Science. Through videos and readings, you’ll learn what data science is, what data scientists do, and what makes someone successful in this field.
 
-### 📌 What Do Data Scientists Do?
-- A Day in the Life of a Data Scientist
-- Working on Different File Formats
-- Data Science Skills
-- Reading: What Makes Someone a Data Scientist?
-
-### 📌 Data Science Topics and Algorithms
-- Big Data and Data Mining
-  - How Big Data is Driving Digital Transformation
-  - Introduction to Cloud
-  - Cloud for Data Science
-  - Foundations of Big Data
-  - Data Scientists at New York University
-  - What is Hadoop?
-  - Hadoop, HDFS, Hive, and Spark
-  - Reading: Data Mining
-- Deep Learning and Machine Learning
-  - Artificial Intelligence and Data Science
-  - Generative AI and Data Science
-  - Neural Networks and Deep Learning
-  - Applications of Machine Learning
-  - Reading: Regression
-  - Lab: Exploring Data using IBM Cloud Gallery
-
-### 📌 Applications and Careers in Data Science
-- Data Science Application Domains
-- How Should Companies Get Started?
-- Old Problems with New Solutions
-- Applications of Data Science
-- How Data Science is Saving Lives
-- Reading: The Final Deliverable
-- Careers and Recruiting in Data Science
-- Importance of Math & Stats for Data Science
-- Reading: Infograph on roadmap
-
-### 📌 Data Literacy for Data Science (Optional)
-- Understanding Data
-- Data Sources & Formats
-- Metadata & Data Collection
-- RDBMS & NoSQL
-- ETL, Data Lakes, Data Pipelines
-- Data Integration Platforms
+| 📺 Asset | 📄 Description |
+|---------|----------------|
+| **"What is Data Science" – Video** | Hear from data science experts in the field explaining what data science means to them. |
+| **"Fundamentals of Data Science" – Video** | An animated video covering core topics like data analysis, data sources, the data science process, and skills of a good data scientist. |
+| **"The Many Paths to Data Science" – Video** | Graduate students and professionals discuss what led them to the field of data science. |
+| **"The Sexiest Job in the 21st Century" – Reading** | An excerpt from *Getting Started with Data Science*, explaining why the profession is so attractive. |
+| **Practice Quiz** | Test your understanding of the key reading materials. |
+| **"Advice for New Data Scientists" – Video** | Professor Murtaza Haider gives insights on how to become a successful data scientist. |
+| **Glossary** | Review terminology from the lesson. |
+| **Graded Quiz** | Evaluate your comprehension through a graded assessment. |
 
 ---
+
+## 📘 Lesson 2: What Do Data Scientists Do?
+
+This lesson takes you into the world of data scientists—their daily tasks, essential tools, and the data-driven challenges they face.
+
+| 📺 Asset | 📄 Description |
+|---------|----------------|
+| **"A Day in the Life of a Data Scientist" – Video** | Gain firsthand insights into the daily routines and challenges faced by data scientists. |
+| **"Data Science Skills and Big Data" – Video** | Understand the core skills needed in data science and the importance of big data. |
+| **"Working on Different File Formats" – Video** | Learn how to handle various file types encountered in data science workflows. |
+| **"Data Science Topics and Algorithms" – Video** | Explore foundational data science concepts and algorithms. |
+| **Discussion Prompt: Introduce Yourself** | Participate in discussions and build a learning community. |
+| **"What Makes Someone a Data Scientist?" – Reading** | Delve into defining the data scientist role. |
+| **Lesson Summary – Video** | Recap the key takeaways from the lesson. |
+| **Practice Quiz** | Assess your knowledge through practice questions. |
+| **Glossary** | Review terms introduced in this lesson. |
+| **Graded Quiz** | Demonstrate your understanding through a final quiz. |
