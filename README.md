@@ -10,12 +10,10 @@ This repository contains my **IBM Data Science Professional Certificate** course
 
 ---
 
-## 🏅 Course Certificates  
-Click on any certificate to **view the full version**.  
-
-| Certificate | Preview | View Certificate |
-|------------|---------|------------------|
-| **1️⃣ What is Data Science?** | ![Preview](your-image-link-1) | [View Certificate](your-certificate-link-1) |
+## 📂 Course Contents
+| Module No. | Course Title | Description |
+|------------|------------------------------|--------------------------------------------|
+| 01 | [**What is Data Science?**](#what-is-data-science) | Introduction to data science concepts and career paths. |
 | **2️⃣ Tools for Data Science** | ![Preview](your-image-link-2) | [View Certificate](your-certificate-link-2) |
 | **3️⃣ Data Science Methodology** | ![Preview](your-image-link-3) | [View Certificate](your-certificate-link-3) |
 | **4️⃣ Python for Data Science, AI & Development** | ![Preview](your-image-link-4) | [View Certificate](your-certificate-link-4) |
