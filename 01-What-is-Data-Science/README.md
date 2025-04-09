@@ -81,7 +81,7 @@ This course provides an introduction to the field of data science, including its
 
 ## 📜 Certificate
 
-![Certificate Preview](./assets/Certificate.png)
+![Certificate Preview](../../assets/Certificate.png)
 
 🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/L9P3P2B7CF6G)
 
@@ -89,6 +89,6 @@ This course provides an introduction to the field of data science, including its
 
 ## 🏅 Digital Badge
 
-![Badge](./assets/Certificate.png)
+![Badge](../../assets/Certificate.png)
 
 🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/d920feea-6563-4993-866d-959707e90020)
