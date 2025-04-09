@@ -81,7 +81,7 @@ This course provides an introduction to the field of data science, including its
 
 ## 📜 Certificate
 
-![Certificate](../assets/Coursera1.pdf)
+![Certificate](../assets/Coursera1.png)
 
 🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/L9P3P2B7CF6G)
 
