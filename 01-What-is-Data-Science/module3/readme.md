@@ -92,7 +92,12 @@ In the final phase, you will explore job listings and complete a **peer-reviewed
 📌 **Final Assignment**  
 Match a real-world job posting to skills learned in this course and reflect on your journey and career aspirations as a data scientist.
 
-🖼️ ![Roadmap](../assets/image.png)
+## 🗺️ A Roadmap to Your Data Science Journey
+
+![Roadmap to your Data Science Journey](../../assets/image.png)
+
+This visual guide outlines the steps and skills needed to pursue a successful career in data science...
+
 
 ---
 
