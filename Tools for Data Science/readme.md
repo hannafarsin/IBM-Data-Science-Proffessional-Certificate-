@@ -106,11 +106,19 @@ You don’t need to memorize every tool mentioned. Instead, you’ll gain a clea
 > ⚠️ **Note**: Module 7 is optional but recommended for learners interested in IBM’s cloud platform.
 
 ---
+---
 
-Let me know if you'd like me to add:
-- Course badge and certificate preview
-- Folder structure setup
-- Hyperlinks to module folders or lessons
-- GitHub markdown tips (like collapsible sections)
+## 📜 Certificate
 
-Ready for the next course when you are!
+![Certificate Preview](../assets/Coursera2.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/62KZPJP9LL9M)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge2.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/09e29505-3d56-4946-9b2b-8a6b73b01fd8)
+
