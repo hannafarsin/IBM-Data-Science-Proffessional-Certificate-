@@ -28,7 +28,7 @@ This module not only reinforces your technical proficiency but also helps you pr
 | 📝 Exam             | Final Exam                                                  |
 
 
-📘 [View the Notebook on GitHub](https://github.com/hannafarsin/blob/main/path/to/your-notebook.ipynb)
+📘 [View the Notebook on GitHub](https://github.com/hannafarsin/project.README.md)
 
 ---
 
