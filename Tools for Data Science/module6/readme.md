@@ -27,6 +27,9 @@ This module not only reinforces your technical proficiency but also helps you pr
 | 📥 Submission       | Review Your Peers                                           |
 | 📝 Exam             | Final Exam                                                  |
 
+
+📘 [View the Notebook on GitHub](https://github.com/hannafarsin/blob/main/path/to/your-notebook.ipynb)
+
 ---
 
 ## 📝 Assessments
