@@ -51,7 +51,7 @@ This course introduces the **methodology followed by data scientists** to tackle
 
 ## 📜 Certificate
 
-![Certificate Preview](../assets/Coursera2.png)
+![Certificate Preview](../assets/Coursera3.png)
 
 🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/K594GYNPTNXL)
 
@@ -59,7 +59,7 @@ This course introduces the **methodology followed by data scientists** to tackle
 
 ## 🏅 Digital Badge
 
-![Badge](../assets/badge2.png)
+![Badge](../assets/badge3.png)
 
 🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/f219d9c3-7a3e-4278-900b-ade6ea7cea6f)
 
