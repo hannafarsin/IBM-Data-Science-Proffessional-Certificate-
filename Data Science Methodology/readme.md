@@ -54,4 +54,20 @@ This course introduces the **methodology followed by data scientists** to tackle
 - Shared work publicly via **GitHub** and **Jupyter Notebooks**
 
 ---
+---
+
+## 📜 Certificate
+
+![Certificate Preview](../assets/Coursera2.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/62KZPJP9LL9M)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge2.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/09e29505-3d56-4946-9b2b-8a6b73b01fd8)
+
 
