@@ -72,6 +72,21 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 **📌 Assessments:** Module 5 Graded Quiz, Final Exam
 
 ---
+## 📜 Certificate
+
+![Certificate Preview](../assets/Coursera4.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/4MLZV8TDXZQS)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge4.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/fc4cfdb7-f0f3-4b23-8f96-7116668fa055)
+
+---
 
 ## 🏁 Completion
 
