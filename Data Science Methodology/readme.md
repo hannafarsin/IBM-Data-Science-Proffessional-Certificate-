@@ -37,13 +37,7 @@ This course introduces the **methodology followed by data scientists** to tackle
 - 📌 **Final Project**: Apply CRISP-DM methodology end-to-end
 - 📜 **Peer-reviewed assignment**
 - 🎓 **Graded Final Exam**
-- 🏆 **Grade Achieved**: 100%
-
----
-
-## 🔗 Resources
-
-- [Jupyter Notebook from Final Project](./final-project/final_project_notebook.ipynb)
+- 🏆 **Grade Achieved**: 91%
 
 ---
 
@@ -54,13 +48,12 @@ This course introduces the **methodology followed by data scientists** to tackle
 - Shared work publicly via **GitHub** and **Jupyter Notebooks**
 
 ---
----
 
 ## 📜 Certificate
 
 ![Certificate Preview](../assets/Coursera2.png)
 
-🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/62KZPJP9LL9M)
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/K594GYNPTNXL)
 
 ---
 
@@ -68,6 +61,6 @@ This course introduces the **methodology followed by data scientists** to tackle
 
 ![Badge](../assets/badge2.png)
 
-🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/09e29505-3d56-4946-9b2b-8a6b73b01fd8)
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/f219d9c3-7a3e-4278-900b-ade6ea7cea6f)
 
 
