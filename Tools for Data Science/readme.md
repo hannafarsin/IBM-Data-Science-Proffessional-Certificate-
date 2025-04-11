@@ -106,7 +106,6 @@ You don’t need to memorize every tool mentioned. Instead, you’ll gain a clea
 > ⚠️ **Note**: Module 7 is optional but recommended for learners interested in IBM’s cloud platform.
 
 ---
----
 
 ## 📜 Certificate
 
