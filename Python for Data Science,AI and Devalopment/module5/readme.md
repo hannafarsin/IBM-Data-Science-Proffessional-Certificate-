@@ -57,12 +57,12 @@ A deep learning-based project that classifies IT service emails (e.g., **Inciden
 ---
 
 ## 🗂 Project Structure
-○ app.py (or equivalent main script)
-○ Requirements file (requirements.txt or environment.yml)
-○ README with setup and usage instructions
-○ models.py containing the model training and utility functions
-○ utils.py containing the utility function and code
-○ api.py to support the development of APIs.
+- app.py (or equivalent main script)
+- Requirements file (requirements.txt or environment.yml)
+- README with setup and usage instructions
+- models.py containing the model training and utility functions
+- utils.py containing the utility function and code
+- api.py to support the development of APIs.
 
 
 
