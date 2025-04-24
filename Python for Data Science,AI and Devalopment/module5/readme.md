@@ -67,7 +67,6 @@ email_classifier_project/ ├── model/ # Trained model (.h5), tokenizer, lab
 
 ## ⚙️ Setup Instructions
 
-```bash
 # 1. Clone the repo
 git clone https://github.com/yourusername/email-classifier-pii-api.git
 cd email-classifier-pii-api
