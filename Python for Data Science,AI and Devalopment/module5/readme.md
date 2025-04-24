@@ -82,18 +82,17 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 
-🔁 Sample API Request & Response
+# Sample API Request & Response
+ 
 ✅ Request
 json
-Copy
-Edit
+
 {
   "email": "Subject: Reset access\nPlease reset my credentials. Email: john.doe@example.com, Phone: 9876543210"
 }
 ✅ Response
 json
-Copy
-Edit
+
 {
   "masked_email": "Subject: Reset access\nPlease reset my credentials. Email: [EMAIL_1], Phone: [PHONE_1]",
   "classification": "incident",
@@ -102,13 +101,13 @@ Edit
     "PHONE_1": "9876543210"
   }
 }
-🧪 Model Training
+# Model Training
 To train or retrain the model:
 python models.py
 
 Trains the LSTM classifier and saves the model to model/email_classifier_model.h5.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 Python 3.10
 
 TensorFlow / Keras
