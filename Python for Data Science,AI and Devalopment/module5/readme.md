@@ -57,15 +57,12 @@ A deep learning-based project that classifies IT service emails (e.g., **Inciden
 ---
 
 ## 🗂 Project Structure
-
-email_classifier_project/ 
-├── model/ # Trained model (.h5), tokenizer, label encoder 
-├──utils.py # Helper functions (PII masking/demasking, prediction) 
-├── models.py # Model training and evaluation script 
-├── app.py # FastAPI app entry point 
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
+○ app.py (or equivalent main script)
+○ Requirements file (requirements.txt or environment.yml)
+○ README with setup and usage instructions
+○ models.py containing the model training and utility functions
+○ utils.py containing the utility function and code
+○ api.py to support the development of APIs.
 
 
 
