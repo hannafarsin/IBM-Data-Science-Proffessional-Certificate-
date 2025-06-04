@@ -1,4 +1,4 @@
-# 🧪 Module 6: Python Project for Data Science
+# 🧪 Module 1: Python Project for Data Science
 
 In this final module, you will demonstrate your skills in **Python**—the language of choice for Data Science and Data Analysis. You'll apply Python fundamentals, utilize data structures, and extract real-world data. By working on a hands-on project, you'll step into the role of a **Data Scientist** or **Data Analyst**, and build a dashboard using Python libraries within a **Jupyter notebook**.
 
