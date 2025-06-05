@@ -92,3 +92,21 @@ You will be using **real cloud-based databases** and **interactive lab environme
 ---
 
 ### 🎓 This course is part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
+
+---
+
+## 📜 Certificate
+
+![Certificate Preview](../assets/Coursera6.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/47D9QKHAYVB3)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge6.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/56ab7565-ca84-4d44-821a-cbee109de602)
+
+---
