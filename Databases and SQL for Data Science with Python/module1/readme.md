@@ -93,5 +93,4 @@ By the end of this module, you will be able to:
 
 ---
 
-📦 **Next Module →** [Module 2: Introduction to Relational Databases and Tables](../Module2/readme.md) _(link when available)_
 
