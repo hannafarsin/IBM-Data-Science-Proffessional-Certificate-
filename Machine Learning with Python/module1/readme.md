@@ -35,10 +35,3 @@
   - **Matplotlib / Seaborn** – visualization
 
 ---
-
-## 📂 Files (Suggested)
-- `ml_intro_notes.md` – Summary notes from videos
-- `supervised_vs_unsupervised_comparison.md` – Table comparing the two learning types
-- `python_libraries_overview.ipynb` – Notebook demoing basic use of `pandas`, `numpy`, and `sklearn`
-
----
