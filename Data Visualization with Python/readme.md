@@ -1,4 +1,4 @@
-# 📊 Course 4: Data Visualization with Python (IBM)
+#  Data Visualization with Python (IBM)
 
 **Course Objective**  
 This course helps learners master the art of presenting data using rich visualizations. You’ll explore multiple tools and libraries in Python to tell meaningful stories through compelling charts, graphs, and interactive dashboards.
@@ -77,6 +77,19 @@ This course helps learners master the art of presenting data using rich visualiz
 - `Pandas`, `Jupyter Notebook`, `Cloud IDE`
 
 ---
+## 📜 Certificate
+
+![Certificate Preview](../assets/Coursera8.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/2VHZC3ZLGKPT)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge8.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/d920feea-6563-4993-866d-959707e90020)
 
 
 ---
