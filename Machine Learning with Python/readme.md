@@ -94,4 +94,22 @@ Machine-Learning-with-Python/
 │   ├── project_report.ipynb
 │   └── README.md
 └── README.md
+
 ---
+## 📜 Certificate
+
+![Certificate Preview](../assets/Coursera9.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/EUC3TJJWMK2W)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge9.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/ddbe8883-fbbe-4834-8f04-e2400065510c)
+
+
+---
+
