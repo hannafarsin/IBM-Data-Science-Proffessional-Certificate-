@@ -91,5 +91,3 @@ By the end of this module, you will be able to:
 > 🛑 *Note*: Some items require a Coursera subscription to unlock.
 
 ---
-
-📦 **Next Module →** [Module 3: Intermediate SQL](../Module-3/README.md) _(link when available)_
