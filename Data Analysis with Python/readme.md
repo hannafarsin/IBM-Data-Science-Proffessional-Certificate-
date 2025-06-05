@@ -137,5 +137,21 @@ Apply everything you've learned in a real-world business scenario.
 
 ---
 
+---
 
+## 📜 Certificate
+
+![Certificate Preview](../assets/Coursera7.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/BB5C2V8ANR9R)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge7.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/3e492045-1669-40ca-aa03-fbd09382ebb0)
+
+---
 
