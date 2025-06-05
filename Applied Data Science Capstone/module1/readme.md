@@ -1,4 +1,4 @@
-###  Predictive Analysis (Classification)
+### Module 1: Predictive Analysis (Classification)
 
 In this module, you will use machine learning to determine if the **first stage of the Falcon 9 rocket** will land successfully. You will:
 
