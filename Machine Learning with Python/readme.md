@@ -73,27 +73,6 @@ By the end, you’ll be able to apply essential ML techniques and showcase your 
 - 📄 Submit your project for peer evaluation
 - 🎯 **Graded:** Final Exam and Peer Review
 
----
-
-## 📁 Folder Structure Suggestion
-
-```plaintext
-Machine-Learning-with-Python/
-│
-├── Module1_Introduction/
-│   └── notes.md
-├── Module2_Regression/
-│   └── regression_labs.ipynb
-├── Module3_Classification/
-│   └── classification_models.ipynb
-├── Module4_Linear_Classification/
-│   └── decision_boundaries.ipynb
-├── Module5_Clustering/
-│   └── kmeans_customer_segmentation.ipynb
-├── Module6_Final_Project/
-│   ├── project_report.ipynb
-│   └── README.md
-└── README.md
 
 ---
 ## 📜 Certificate
