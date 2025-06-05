@@ -63,4 +63,4 @@ This course introduces the **methodology followed by data scientists** to tackle
 
 🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/f219d9c3-7a3e-4278-900b-ade6ea7cea6f)
 
-
+---
