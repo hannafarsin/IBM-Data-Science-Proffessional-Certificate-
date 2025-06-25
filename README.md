@@ -99,11 +99,23 @@ Prepare for a career as a **Data Scientist** with this beginner-friendly, job-re
 📌 All notebooks are inside their respective folders in this repository.
 
 ---
-# 🧠 IBM Data Science Professional Certificate
+#  📜 IBM Data Science Professional Certificate
 
-![IBM Certificate](https://link-to-your-certificate-image)
-![IBM Badge](https://link-to-your-badge-image)
 
+
+![Certificate Preview](../assets/Coursera10.png)
+
+🔗 [View Verified Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LJ7QWG5SL1TT)
+
+---
+
+## 🏅 Digital Badge
+
+![Badge](../assets/badge10.png)
+
+🔗 [View Verified Badge](https://www.credly.com/earner/earned/badge/8f6ff11c-41e0-4798-919f-427189bc668d)
+
+---
 
 ## ✨ Author  
 👤 **Hanna Farsin**  
