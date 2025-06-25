@@ -99,6 +99,11 @@ Prepare for a career as a **Data Scientist** with this beginner-friendly, job-re
 📌 All notebooks are inside their respective folders in this repository.
 
 ---
+# 🧠 IBM Data Science Professional Certificate
+
+![IBM Certificate](https://link-to-your-certificate-image)
+![IBM Badge](https://link-to-your-badge-image)
+
 
 ## ✨ Author  
 👤 **Hanna Farsin**  
