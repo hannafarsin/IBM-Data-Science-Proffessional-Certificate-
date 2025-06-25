@@ -3,26 +3,94 @@
 
 ## 📜 About This Repository  
 This repository contains my **IBM Data Science Professional Certificate** coursework, including projects, notebooks, and resources.  
+# 🧠 IBM Data Science Professional Certificate
 
-📜 **Full Certificate Link**: [View IBM Certificate](your-full-certificate-link)  
-📅 **Completion Date**: 03/2025  
-🏆 **Offered By**: IBM via Coursera  
+Prepare for a career as a **Data Scientist** with this beginner-friendly, job-ready certification program by **IBM**. No prior experience required. Build foundational and advanced skills in **Python, SQL, Data Analysis, Machine Learning, AI**, and more — all while completing hands-on labs and real-world projects.
 
 ---
 
-## 📂 Course Contents  
-| Module No. | Course Title | Description |
-|------------|------------------------------|--------------------------------------------|
-| 01 | **What is Data Science?** | Introduction to data science concepts and career paths. |
-| 02 | **Tools for Data Science** | Overview of tools like Jupyter, RStudio, GitHub, Watson Studio. |
-| 03 | **Data Science Methodology** | Understanding the steps in the data science process. |
-| 04 | **Python for Data Science, AI & Development** | Learning Python basics for data analysis. |
-| 05 | **Python Project for Data Science** | Hands-on Python project using Jupyter Notebook. |
-| 06 | **Databases and SQL for Data Science** | Working with SQL databases like IBM Db2. |
-| 07 | **Data Analysis with Python** | Exploratory data analysis with Pandas, NumPy. |
-| 08 | **Data Visualization with Python** | Creating visualizations using Matplotlib & Seaborn. |
-| 09 | **Machine Learning with Python** | Implementing ML models using Scikit-Learn. |
-| 10 | **Applied Data Science Capstone** | Real-world project applying all learned skills. |
+## 🧑‍🏫 Program by
+**IBM Skills Network Team**  
+**Instructors:** Dr. Pooja, Abhishek Gagneja  
+📈 **746,160+ learners enrolled**
+
+---
+
+## 📦 Program Overview
+- 🎓 **Credential:** IBM Professional Certificate (12-course series)
+- ⭐ **Rating:** 4.6 / 5.0 (79,000+ reviews)
+- 🕒 **Duration:** ~6 weeks (10 hrs/week)
+- 📚 **Level:** Beginner — No prior programming or data experience required
+- 💼 **Outcome:** Build a professional portfolio & access IBM’s Talent Network
+- 🌐 **Platform:** [Coursera](https://www.coursera.org/)
+
+---
+
+## 🎯 What You'll Learn
+- Master tools and libraries used by data scientists: **Python, SQL, Pandas, NumPy, Scikit-learn, Jupyter, Matplotlib, Seaborn**, and more
+- Import, wrangle, clean, analyze, and visualize data
+- Build and evaluate **machine learning models**
+- Apply **generative AI** techniques in data science workflows
+- Create a professional portfolio with real-world data projects
+
+---
+
+## 🛠 Skills You'll Gain
+- Data Wrangling & Analysis
+- Exploratory Data Analysis (EDA)
+- SQL & Database Querying
+- Machine Learning & Predictive Modeling
+- Data Visualization & Dashboards
+- Python Programming
+- Tools: Jupyter, RStudio, GitHub, Watson Studio
+
+---
+
+## 📈 Career Impact
+- 🎓 **Shareable Certificate** (LinkedIn-ready)
+- 📈 **$138,000+** median U.S. salary for Data Science (source: Coursera)
+- 💼 **69,000+** open roles in the U.S.
+
+---
+
+## 💻 Hands-on Projects Include
+- Extract & visualize financial data using Pandas
+- Query and analyze U.S. census and crime data with SQL
+- Build regression models to predict housing prices
+- Create interactive dashboards for flight reliability
+- Apply machine learning to loan prediction
+- Train and compare classification algorithms
+
+---
+
+## 📚 Courses Included
+
+| # | Course Name | Duration |
+|--:|-------------|---------:|
+| 1 | What is Data Science? | 11 hrs |
+| 2 | Tools for Data Science | 18 hrs |
+| 3 | Data Science Methodology | 6 hrs |
+| 4 | Python for Data Science, AI & Development | 25 hrs |
+| 5 | Python Project for Data Science | 8 hrs |
+| 6 | Databases and SQL for Data Science with Python | 18 hrs |
+| 7 | Data Analysis with Python | 15 hrs |
+| 8 | Data Visualization with Python | 20 hrs |
+| 9 | Machine Learning with Python | 20 hrs |
+|10 | Applied Data Science Capstone | 13 hrs |
+|11 | Generative AI: Elevate Your Data Science Career | 13 hrs |
+|12 | Data Scientist Career Guide & Interview Preparation | 9 hrs |
+
+---
+
+## 🎓 Academic Credit
+✅ ACE® and FIBAA recommended  
+Earn up to **12 college credits** and **6 ECTS credits** upon completion
+
+---
+
+## 🌟 Join the IBM Data Science Journey
+> Build real-world skills. Earn a recognized credential. Start your career in data science today.
+
 
 ---
 
