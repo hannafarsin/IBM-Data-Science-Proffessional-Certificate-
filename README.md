@@ -16,12 +16,6 @@ Prepare for a career as a **Data Scientist** with this beginner-friendly, job-re
 
 ---
 
-## 📦 Program Overview
-- 🎓 **Credential:** IBM Professional Certificate (12-course series)
-- ⭐ **Rating:** 4.6 / 5.0 (79,000+ reviews)
-- 🕒 **Duration:** ~6 weeks (10 hrs/week)
-- 📚 **Level:** Beginner — No prior programming or data experience required
-- 💼 **Outcome:** Build a professional portfolio & access IBM’s Talent Network
 - 🌐 **Platform:** [Coursera](https://www.coursera.org/)
 
 ---
@@ -43,13 +37,6 @@ Prepare for a career as a **Data Scientist** with this beginner-friendly, job-re
 - Data Visualization & Dashboards
 - Python Programming
 - Tools: Jupyter, RStudio, GitHub, Watson Studio
-
----
-
-## 📈 Career Impact
-- 🎓 **Shareable Certificate** (LinkedIn-ready)
-- 📈 **$138,000+** median U.S. salary for Data Science (source: Coursera)
-- 💼 **69,000+** open roles in the U.S.
 
 ---
 
@@ -79,12 +66,6 @@ Prepare for a career as a **Data Scientist** with this beginner-friendly, job-re
 |10 | Applied Data Science Capstone | 13 hrs |
 |11 | Generative AI: Elevate Your Data Science Career | 13 hrs |
 |12 | Data Scientist Career Guide & Interview Preparation | 9 hrs |
-
----
-
-## 🎓 Academic Credit
-✅ ACE® and FIBAA recommended  
-Earn up to **12 college credits** and **6 ECTS credits** upon completion
 
 ---
 
@@ -125,9 +106,3 @@ Earn up to **12 college credits** and **6 ECTS credits** upon completion
 📧 [Email](hannafarsin@gmail.com)  
 
 ---
-
-## 📢 How to Use This Repository  
-1️⃣ **Clone this repository**  
-```bash
-git clone https://github.com/your-username/IBM-Data-Science-Professional-certificate.git
-Completed AI Professional Certificate - Course Materials &amp; Projects
